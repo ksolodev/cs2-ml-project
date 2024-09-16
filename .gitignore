@@ -1,0 +1,7 @@
+# Ignore data files and build artifacts
+data/
+build/
+*.pth
+*.log
+*.csv
+*.png
