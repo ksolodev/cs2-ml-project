@@ -5,3 +5,7 @@ build/
 *.log
 *.csv
 *.png
+
+# Ignore system files
+.DS_Store
+Thumbs.db

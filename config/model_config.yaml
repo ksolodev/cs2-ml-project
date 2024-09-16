@@ -1,0 +1,5 @@
+# model_config.yaml
+input_size: 10
+hidden_size: 64
+output_size: 1
+activation_function: sigmoid
